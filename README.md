@@ -12,5 +12,5 @@ This repository mantains logo's and information for assets on the Aryacoin OmniL
 - [ ] Upload your logo with file named `logo.png` to previously created folder with property id, and if you done all correctly your path should look like this. `blockchains/aryacoin/assets/<PropertyID>/logo.png`
 - [ ] Create `info.json` file with info about the token/project
 - [ ] Create a pull request to the main repo
-- [ ] Send the processing fee of 1999 AYA to `` from the Issuer Address of the Asset. (It is important that the processing fee is paid by the issuer address of the Asset else the payment will not be accepted)
+- [ ] Send the processing fee of 2000 AYA to `AS16rKAkb1zo2NqUaDm2zNQriVQxruLVpD` from the Issuer Address of the Asset. (It is important that the processing fee is paid by the issuer address of the Asset else the payment will not be accepted)
 
